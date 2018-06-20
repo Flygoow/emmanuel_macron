@@ -1,0 +1,22 @@
+{
+  "name": "emmanuel_macron",
+  "version": "1.0.0",
+  "description": "Le bot officiel de Emmanuel Macron.",
+  "main": "index.js",
+  "dependencies": {
+    "commando": "^0.0.2",
+    "discord.js": "^11.1.0",
+    "discord.js-commando": "^0.9.0",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "opusscript": "^0.0.3",
+    "return-deep-diff": "^0.2.7",
+    "snowflake": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+},
+  "author": "",
+  "license": "ISC"
+}
