@@ -1,9 +1,8 @@
-
 {
   "name": "eh-manu",
   "main": "index.js",
   "dependencies": {
-    "discord.js": "^11.1.0",
+    "discord.js": "^11.1.0"
   },
   "author": "",
   "license": "ISC",
