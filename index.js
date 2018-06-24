@@ -10,10 +10,6 @@ bot.on('message', (message) => {
         if(message.content.match (/Emmanuel/i)) {
         return;
     }
-        if(message.content.match (/Manu/i) && (message.content.match (/dab/i))) {
-        return message.channel.sendMessage("Non non non, je suis pas ton copain, hein, non non non non. Mais je ne peut résister...")
-        return message.channel.sendFile("./dab/macron dab.png")
-    }
         if(message.content.match (/Emmanuel/i) && (message.content.match (/dab/i))) {
         return message.channel.sendFile("./dab/macron dab.png")
     }
